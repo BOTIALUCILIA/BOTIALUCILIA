@@ -48,9 +48,51 @@
 </category>
 
 <category>
+    <pattern>VOU BEM</pattern>
+    <template>
+        <srai>ESTOU BEM</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>TO INDO BEM</pattern>
+    <template>
+        <srai>ESTOU BEM</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>NÃO ESTOU BEM</pattern>
+    <template>
+        <srai>ESTOU BEM</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>TO TRANQUILO</pattern>
+    <template>
+        <srai>ESTOU BEM</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>TO LEGAL</pattern>
+    <template>
+        <srai>ESTOU BEM</srai>
+    </template>
+</category>
+
+<category>
     <pattern>GOSTO</pattern>
     <template>
-            <li>Eu também. De que tipo de anime você gosta? Eu posso te recomendar algum.</li>
+        <li>Eu também. De qual gênero de anime você gosta? Eu posso te recomendar alguns.</li>
+    </template>
+</category>
+
+<category>
+    <pattern>TAMBÉM GOSTO</pattern>
+    <template>
+        <srai>GOSTO</srai>
     </template>
 </category>
 
@@ -58,8 +100,8 @@
     <pattern>MAHOU SHOUJO</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Mahou shoujo madoka magika, é um anime sobre garotas fofas que matam bruxas.</li>
-            <li>Nesse gênero eu conheço o anime kore wa zombie desu ka.</li>
+            <li>Assista Mahou shoujo madoka magika, é um anime sobre garotas fofas que matam bruxas. Você já assistiu?</li>
+            <li>Nesse gênero eu conheço o anime kore wa zombie desu ka. É muito bom ,eu recomendo.Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -68,8 +110,8 @@
     <pattern>ACTION</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Sword Art Online.</li>
-            <li>Nesse gênero eu conheço o anime Bleach.</li>
+            <li>De Action recomendo o anime Sword Art Online. Você já assistiu?</li>
+            <li>Nesse gênero eu conheço o anime Bleach. É ótimo! Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -78,8 +120,8 @@
     <pattern>ADVENTURE</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka.</li>
-            <li>Nesse gênero eu conheço o anime Overlord.</li>
+            <li>Assista Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka.Você já assistiu?</li>
+            <li>Nesse gênero eu conheço o anime Overlord. Pode assistir, é muito bom!Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -88,8 +130,8 @@
     <pattern>COMEDY</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Nisekoi.</li>
-            <li>Nesse gênero eu conheço o anime Boku wa tomodachi ga sukunai.</li>
+            <li>Assista o anime Nisekoi, é legal.Você já assistiu?</li>
+            <li>Recomendo o anime Boku wa tomodachi ga sukunai.Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -98,8 +140,8 @@
     <pattern>ROMANCE</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Sakurasou no pet na kanojo, um romance de enxer os olhos com uma pitada de humor.</li>
-            <li>Nesse gênero eu conheço o anime Yahari Ore no Seishun Love Comedy wa Machigatteiru.</li>
+            <li>Assista Sakurasou no pet na kanojo, um romance de enxer os olhos com uma pitada de humor.Você já assistiu?</li>
+            <li>Olha, já viu o anime Yahari Ore no Seishun Love Comedy wa Machigatteiru? Se não viu você tem que assistir.Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -108,8 +150,8 @@
     <pattern>SPORT</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Haikyuu.</li>
-            <li>Nesse gênero eu conheço o anime Ace of Diamond é um bom anime para quem curte Baseball de animes de superação.</li>
+            <li>Nesse gênero eu conheço o anime Haikyuu.Você já assistiu?</li>
+            <li>Assista Ace of Diamond é um bom anime para quem curte Baseball de animes de superação.Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -118,8 +160,8 @@
     <pattern>THRILLER</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Elfen Lied.</li>
-            <li>Nesse gênero eu conheço o anime Another.</li>
+            <li>Recomendo Elfen Lied, é interessante.Você já assistiu?</li>
+            <li>Nesse gênero eu conheço o anime Another.Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -128,8 +170,8 @@
     <pattern>DRAMA</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Angel Beats.</li>
-            <li>Nesse gênero eu conheço o anime Guilty Crown.</li>
+            <li>Assista Angel Beats, é muito interessante.Você já assistiu?</li>
+            <li>Anime de drama bom é Guilty Crown.Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -138,8 +180,8 @@
     <pattern>SLICE OF LIFE</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Hyouka.</li>
-            <li>Nesse gênero eu conheço o anime Seitokai yakuindomo.</li>
+            <li>Assiste Hyouka, é um anime legal.Você já assistiu?</li>
+            <li>Nesse gênero eu conheço o anime Seitokai yakuindomo.Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -148,8 +190,8 @@
     <pattern>MAGIC</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Mahouka koukou no rettousei,um anime com um protagonista 10/10 que ganha as lutas facilmente.</li>
-            <li>Nesse gênero eu conheço o anime Fullmetal Alchemist.</li>
+            <li>Nesse gênero eu conheço o anime Mahouka koukou no rettousei,um anime com um protagonista 10/10 que ganha as lutas facilmente.Você já assistiu?</li>
+            <li>Recomendo Fullmetal Alchemist, é ótimo!Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -158,8 +200,8 @@
     <pattern>YAOI</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Boku no pico.</li>
-            <li>Nesse gênero eu conheço o anime Sex pistols.</li>
+            <li> Recomendo Boku no pico.Você já assistiu?</li>
+            <li> Recomendo o anime Sex pistols.Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -168,18 +210,18 @@
     <pattern>YURI</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Aki Sora.</li>
-            <li>Nesse gênero eu conheço o anime Shoujo sect.</li>
+            <li> Assista Aki Sora.Você já assistiu?</li>
+            <li> Assiste o anime Shoujo sect.Você já assistiu?</li>
         </random>
     </template>
 </category>
 
 <category>
-    <pattern>SUPER-POWER</pattern>
+    <pattern>HERO</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Boku no Hero academia.</li>
-            <li>Nesse gênero eu conheço o anime Shingekino kyojin.</li>
+            <li>Cara, Boku no Hero academia, é um dos melhores, só assiste.Você já assistiu?</li>
+            <li>Cara, Shingekino kyojin, é um dos melhores, só assiste.Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -188,8 +230,8 @@
     <pattern>MECHA</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Code Geass.</li>
-            <li>Nesse gênero eu conheço o anime Tengen Toppa Gurren Lagann.</li>
+            <li>Tem o anime Code Geass, é bom.Você já assistiu?</li>
+            <li>Conhece Tengen Toppa Gurren Lagann? É muito legal.Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -198,8 +240,8 @@
     <pattern>SCHOOL</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Toradora!</li>
-            <li>Nesse gênero eu conheço o anime Clannad.</li>
+            <li>Recomendo Toradora!Você já assistiu?</li>
+            <li>Assista o anime Clannad. Esse é bom!Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -208,8 +250,8 @@
     <pattern>HAREM</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime High School DxD.</li>
-            <li>Nesse gênero eu conheço o anime Shinmai mahou no testament.</li>
+            <li> Assiste High School DxD. É muito legal!Você já assistiu?</li>
+            <li> De Harem eu conheço o anime Shinmai mahou no testament.Você já assistiu?</li>
         </random>
     </template>
 </category>
@@ -218,8 +260,8 @@
     <pattern>ECCHI</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime Strike the blood.</li>
-            <li>Nesse gênero eu conheço o anime Kissxsis.</li>
+            <li> Olha, não que eu assista, mas já ouvi falar do anime Strike the blood ( ͡° ͜ʖ ͡°) . Você já assistiu?</li>
+            <li> Olha, não que eu assista mas já ouvir falar do anime Kissxsis ( ͡° ͜ʖ ͡°) . Você já assistiu? </li>
         </random>
     </template>
 </category>
@@ -228,11 +270,37 @@
     <pattern>FANTASY</pattern>
     <template>
         <random>
-            <li>Nesse gênero eu conheço o anime No Game No Life.</li>
-            <li>Nesse gênero eu conheço o anime Accel World.</li>
+            <li>Conhece No Game No Life? É simplesmente um dos melhores animes do gênero. Você já assistiu?</li>
+            <li>Nesse gênero eu conheço o anime Accel World. É bom! Você já assistiu?</li>
         </random>
     </template>
 </category>
-  
+
+<category>
+    <pattern>EU NÃO GOSTO DE ANIMES</pattern>
+    <template>
+        <li>Então tchau, não quero falar com você.</li>
+    </template>
+</category>
+
+<category>
+    <pattern>JA ASSISTI</pattern>
+    <template>
+        <random>
+            <li>Legal! Qual outro gênero você gosta?</li>
+            <li>Interessante! Qual outro gênero você gosta?</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>NÃO ASSISTI</pattern>
+    <template>
+        <random>
+            <li>Ta esperando o que? Vai assistir logo.</li>
+            <li>Você tem que assistir.</li>
+        </random>
+    </template>
+</category>
   
 </aiml>
