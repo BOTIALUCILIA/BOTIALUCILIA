@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <!-- insert your AIML categories here -->
+  <category>
+	<pattern>OI</pattern>
+	<template>
+		<random>
+			<li>Oi, tudo bem?</li>
+			<li>Como vai você?</li>
+			<li>Olá</li>
+			<li>Oi</li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>OLÁ</pattern>
+	<template>
+		<srai>OI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TUDO BEM</pattern>
+	<template>
+		<random>
+			<li>Sim, e você?</li>
+			<li>Estou bem! E você?</li>
+		</random>
+	</template>
+</category>
+
+<category>
+    <pattern>OLÁ, TUDO BEM</pattern>
+    <template>
+        <srai>TUDO BEM</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>ESTOU BEM</pattern>
+    <template>
+        <random>
+            <li>Que bom! Você gosta de animes?</li>
+            <li>Legal! Você gosta de animes?</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>GOSTO</pattern>
+    <template>
+            <li>Eu também. De que tipo de anime você gosta? Eu posso te recomendar algum.</li>
+    </template>
+</category>
+
+<category>
+    <pattern>MAHOU SHOUJO</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Mahou shoujo madoka magika, é um anime sobre garotas fofas que matam bruxas.</li>
+            <li>Nesse gênero eu conheço o anime kore wa zombie desu ka.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ACTION</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Sword Art Online.</li>
+            <li>Nesse gênero eu conheço o anime Bleach.</li>
+        </random>
+    </template>
+</category>
+  
+  <category>
+    <pattern>ADVENTURE</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka.</li>
+            <li>Nesse gênero eu conheço o anime Overlord.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>COMEDY</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Nisekoi.</li>
+            <li>Nesse gênero eu conheço o anime Boku wa tomodachi ga sukunai.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ROMANCE</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Sakurasou no pet na kanojo, um romance de enxer os olhos com uma pitada de humor.</li>
+            <li>Nesse gênero eu conheço o anime Yahari Ore no Seishun Love Comedy wa Machigatteiru.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SPORT</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Haikyuu.</li>
+            <li>Nesse gênero eu conheço o anime Ace of Diamond é um bom anime para quem curte Baseball de animes de superação.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>THRILLER</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Elfen Lied.</li>
+            <li>Nesse gênero eu conheço o anime Another.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>DRAMA</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Angel Beats.</li>
+            <li>Nesse gênero eu conheço o anime Guilty Crown.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SLICE OF LIFE</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Hyouka.</li>
+            <li>Nesse gênero eu conheço o anime Seitokai yakuindomo.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>MAGIC</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Mahouka koukou no rettousei,um anime com um protagonista 10/10 que ganha as lutas facilmente.</li>
+            <li>Nesse gênero eu conheço o anime Fullmetal Alchemist.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>YAOI</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Boku no pico.</li>
+            <li>Nesse gênero eu conheço o anime Sex pistols.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>YURI</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Aki Sora.</li>
+            <li>Nesse gênero eu conheço o anime Shoujo sect.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SUPER-POWER</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Boku no Hero academia.</li>
+            <li>Nesse gênero eu conheço o anime Shingekino kyojin.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>MECHA</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Code Geass.</li>
+            <li>Nesse gênero eu conheço o anime Tengen Toppa Gurren Lagann.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SCHOOL</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Toradora!</li>
+            <li>Nesse gênero eu conheço o anime Clannad.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>HAREM</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime High School DxD.</li>
+            <li>Nesse gênero eu conheço o anime Shinmai mahou no testament.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ECCHI</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime Strike the blood.</li>
+            <li>Nesse gênero eu conheço o anime Kissxsis.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>FANTASY</pattern>
+    <template>
+        <random>
+            <li>Nesse gênero eu conheço o anime No Game No Life.</li>
+            <li>Nesse gênero eu conheço o anime Accel World.</li>
+        </random>
+    </template>
+</category>
+  
+  
+</aiml>
