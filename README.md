@@ -4,7 +4,8 @@ Professor(a): Lucília Ribeiro
 Turma: Jogos Digitais 3º Período 2016/2
 Disciplina: Fundamentos de IA
 
-Alunos: Cássio Martins,             
+Alunos: 
+        Cássio Martins,             
         Lucas Adriano,
         Lucas Milhomen,
         Thierry Augusto
