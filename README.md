@@ -1,7 +1,9 @@
 # CHATTERBOT
 Faculdade de Tecnologia Senac Goiás 
-Professor(a): Lucília Ribeiro       Turma: Jogos Digitais 3º Período 2016/2
-Alunos: Cássio Martins              Disciplina: Fundamentos de IA
+Professor(a): Lucília Ribeiro       
+Turma: Jogos Digitais 3º Período 2016/2
+Disciplina: Fundamentos de IA
+Alunos: Cássio Martins             
         Lucas Adriano
         Lucas Milhomen
         Thierry Augusto
